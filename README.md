@@ -1,2 +1,2 @@
-# Sidney2.0-Walkthrough
+# Sidney2.0
 Report for Sidney2.0 machine.
